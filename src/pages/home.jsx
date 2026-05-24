@@ -1,5 +1,4 @@
 import React, { useState } from 'react';
-import sidebar from '../components/sidebar';
 import './home.css';
 
 function Home() {
@@ -61,7 +60,7 @@ function Home() {
 
         </div>
       </div>
-        <Sidebar />
+        
     </>
   );
 }
